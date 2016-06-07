@@ -9,8 +9,8 @@ logo_fallback:      'assets/img/logo_szines.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             hu_HU
-url:                http://www.talaj-info.hu
-#url:                http://127.0.0.1:4000/
+#url:                http://www.talaj-info.hu
+url:                http://127.0.0.1:4000/
 
 # Jekyll
 permalink:          /:title/

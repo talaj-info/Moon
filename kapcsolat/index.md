@@ -5,6 +5,9 @@ tags: [contact, kapcsolat]
 date: 2016-06-07
 ---
 
+<table>
+<tr>
+<td valign="top">
 <div class="poem">
     <p class="stanza">
         <span class="verse">
@@ -24,3 +27,9 @@ date: 2016-06-07
         </span>
     </p>
 </div>
+</td valign="top">
+<td>
+<iframe src="http://maps.google.com/maps?q=46.084845,18.231399&z=15&output=embed" width="400px" height="342px" frameborder="0" style="border:0"></iframe>
+</td>
+</tr>
+</table>
