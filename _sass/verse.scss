@@ -1,6 +1,7 @@
 /* https://gist.github.com/elmimmo/1260309 */
 
 /* Left-aligned text in a centered block (mangles text in Adobe Digital Editions 1.7, so search an alternative if you need to support it) */
+
 .poem {
   display: table;
   margin-right: auto;
@@ -9,8 +10,9 @@
 
 /* Indent wrapping lines */
 .stanza {
-  margin-left: 2em;
+  margin-left: 0em;
 }
+
 .verse {
-  margin-left: -2em;
+  margin-left: 0em;
 }
