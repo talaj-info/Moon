@@ -9,7 +9,7 @@ date: 2016-06-07
 
 <div class="clearfix">
 
-<img class="uszokep" src="{{ site.url }}/assets/img/tihanyi_klara.png">
+<img class="uszokep" src="{{ site.url }}/assets/img/tihanyi_klara_120.png">
 
 <h3>Tihanyi Klára</h3>
 
@@ -25,7 +25,7 @@ NAK szaktanácsadói névjegyzék száma: NAK-2392
 
 <div class="clearfix">
 
-<img class="uszokep" src="{{ site.url }}/assets/img/szalmasy_gabor.png">
+<img class="uszokep" src="{{ site.url }}/assets/img/szalmasy_gabor_120.png">
 
 <h3>Szalmásy Gábor</h3>
 
