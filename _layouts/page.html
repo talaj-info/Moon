@@ -14,10 +14,11 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="row">
-                <a href="{{ site.url }}">
-                    <img src="{{ site.logo }}" onerror="this.onerror=null; this.src='{{ site.logo_fallback }}'" style="width: 180px; height: auto;">
-                </a>
+                    <img src="{{ site.url }}/{{ site.logo }}" onerror="this.onerror=null; this.src='{{ site.url }}/{{ site.logo_fallback }}'" style="width: 180px; height: auto;">
                     <h3 class="title" style="padding-top:20px;">
+                        <a class="btn zoombtn" href="{{ site.url }}">
+                        <b>Bemutatkozás</b>
+                        </a>
                         <a class="btn zoombtn" href="{{ site.url }}/szolgaltatasaink">
                         <b>Szolgáltatásaink</b>
                         </a>
