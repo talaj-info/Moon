@@ -7,11 +7,11 @@ date: 2016-06-07
 
 ## Szakértőként tevékenykedő munkatársaink:
 
+<h3 align="center" style="padding-top:20px;">Tihanyi Klára</h3>
+
 <div class="clearfix">
 
 <img class="uszokep" src="{{ site.url }}/assets/img/tihanyi_klara_120.png">
-
-<h3>Tihanyi Klára</h3>
 
 <p style="text-align:left">Okleveles agrármérnök, talajerőgazdálkodási szakmérnök. Több évtizede tevékenykedik a talajvédelem szakterületen agrokémiai, talajtani szaktanácsadóként, talajbiológiai labormérnökként és talajvédelmi felügyelőként, majd 2009. óta talajvédelmi szakértőként.</p>
 
@@ -23,11 +23,11 @@ NAK szaktanácsadói névjegyzék száma: NAK-2392
 
 </div>
 
+<h3 align="center" style="padding-top:20px;">Szalmásy Gábor</h3>
+
 <div class="clearfix">
 
 <img class="uszokep" src="{{ site.url }}/assets/img/szalmasy_gabor_120.png">
-
-<h3>Szalmásy Gábor</h3>
 
 <p style="text-align:left">Okleveles agrármérnök, talajtani szakmérnök. Talajvédelmi szakértői tevékenységet 2013. óta végez.</p>
 
