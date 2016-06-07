@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Bemutatkozás
-tags: [about, bemutatkozás]
-date: 2016-06-07
+layout: home
+title: Talaj-Info
+comments: false
 ---
 
 A *Talaj-Info Kft.* 2009 éves alakulása óta foglalkozik talajvédelmi tervek készítésével, illetve tápanyag-gazdálkodási szaktanácsadással. Cégünk alapítója több évtizedes szakmai gyakorlattal bír a talajvédelem, tápanyag-gazdálkodás területén. A Talaj-Info Kft. széleskörű referencia munkákkal rendelkezik, elsősorban hígtrágya, szennyvíziszap, szennyvíziszap komposzt, öntözést, nem veszélyes hulladék termőföldön történő elhelyezését, illetve ültetvénytelepítést, humuszos termőréteg mentését, rekultivációt megalapozó talajvédelmi tervek készítésében.
