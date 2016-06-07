@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: page
 title: Kapcsolat
 tags: [contact, kapcsolat]
 date: 2016-06-07
