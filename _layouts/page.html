@@ -10,26 +10,28 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
+        <a href="{{ site.url }}">
+        <div style="margin-top:10px;padding-top:10px;">
+            <img src="{{ site.url }}/{{ site.logo }}" onerror="this.onerror=null; this.src='{{ site.logo_fallback }}'">
+        </div>
+        </a>
+        <h3 class="title" style="padding-top:0px;">
+            <a class="btn zoombtn" href="{{ site.url }}/bemutatkozas">
+            <b>Bemutatkozás</b>
+            </a>
+            <a class="btn zoombtn" href="{{ site.url }}/szolgaltatasaink">
+            <b>Szolgáltatásaink</b>
+            </a>
+            <a class="btn zoombtn" href="{{ site.url }}/munkatarsaink">
+            <b>Munkatársaink</b>
+            </a>
+            <a class="btn zoombtn" href="{{ site.url }}/kapcsolat">
+            <b>Kapcsolat</b>
+            </a>
+        </h3>
     <!-- Header -->
     <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="row">
-                    <img src="{{ site.url }}/{{ site.logo }}" onerror="this.onerror=null; this.src='{{ site.url }}/{{ site.logo_fallback }}'" style="width: 180px; height: auto;">
-                    <h3 class="title" style="padding-top:20px;">
-                        <a class="btn zoombtn" href="{{ site.url }}">
-                        <b>Bemutatkozás</b>
-                        </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/szolgaltatasaink">
-                        <b>Szolgáltatásaink</b>
-                        </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/munkatarsaink">
-                        <b>Munkatársaink</b>
-                        </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/kapcsolat">
-                        <b>Kapcsolat</b>
-                        </a>
-                    </h3>
-            </div>
+        <div class="wrapper animated fadeIn" style="margin-top:0px;background-color:#ecc48e;">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>

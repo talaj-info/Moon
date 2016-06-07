@@ -4,8 +4,8 @@ bio:                'Talaj-Info Talajvédelmi Szolgáltató Kft.'
 description:        "Nemzeti kincsünk a talaj"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo_szines.svg'
-logo_fallback:      'assets/img/logo_szines.png'
+logo:               'assets/img/logo_szines_feher_szoveg.svg'
+logo_fallback:      'assets/img/logo_szines_feher_szoveg.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             hu_HU
