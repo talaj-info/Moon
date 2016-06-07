@@ -9,10 +9,21 @@ date: 2016-06-07
 
 ### Tihanyi Klára
 
-![Smithsonian Image]({{ site.url }}/assets/img/tihanyi_klara.png)
-{: .image-left}
+![Tihanyi Klára]({{ site.url }}/assets/img/tihanyi_klara.png)
+
+Okleveles agrármérnök, talajerőgazdálkodási szakmérnök. Több évtizede tevékenykedik a talajvédelem szakterületen agrokémiai, talajtani szaktanácsadóként, talajbiológiai labormérnökként és talajvédelmi felügyelőként, majd 2009. óta talajvédelmi szakértőként.
+
+Talajvédelmi szakértői nyilvántartási száma: 061/2010
+
+NAK szaktanácsadói névjegyzék száma: NAK-2392
+
 
 ### Szalmásy Gábor
 
-![Smithsonian Image]({{ site.url }}/assets/img/szalmasy_gabor.png)
-{: .image-left}
+![Szalmásy Gábor]({{ site.url }}/assets/img/szalmasy_gabor.png)
+
+Okleveles agrármérnök, talajtani szakmérnök. Talajvédelmi szakértői tevékenységet 2013. óta végez.
+
+Talajvédelmi szakértői nyilvántartási száma: 003/2013
+
+NAK szaktanácsadói névjegyzék száma: NAK-2390
