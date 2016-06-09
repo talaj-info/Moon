@@ -39,5 +39,3 @@ date: 2016-06-07
 * Tápanyag-gazdálkodási terv készítése
 
 ## Genetikus talajtérkép készítése
-
-## Termőhelyi kategória megállapítása
