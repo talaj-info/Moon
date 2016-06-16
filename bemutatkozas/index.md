@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Bemutatkozás
+description: "Cégünk főként talajvédelmi tervek készítésével, illetve tápanyag-gazdálkodási szaktanácsadással foglalkozik elsősorban Baranya, Somogy, és Tolna megyében"
 comments: false
 ---
 
 A *Talaj-Info Kft.* 2009 éves alakulása óta foglalkozik talajvédelmi tervek készítésével, illetve tápanyag-gazdálkodási szaktanácsadással.
-Cégünk alapítója több évtizedes szakmai gyakorlattal bír a talajvédelem, tápanyag-gazdálkodás területén. 
+Cégünk alapítója több évtizedes szakmai gyakorlattal bír a talajvédelem, tápanyag-gazdálkodás területén.
 A Talaj-Info Kft. széleskörű referencia munkákkal rendelkezik, elsősorban hígtrágya, szennyvíziszap, szennyvíziszap komposzt, nem veszélyes hulladék termőföldön történő elhelyezését, illetve öntözést, ültetvénytelepítést, humuszos termőréteg mentését, rekultivációt megalapozó talajvédelmi tervek készítésében.
 
 2015-ben szaktanácsadóként bekapcsolódtunk az Agrárkörnyezet-gazdálkodási Programba, melynek keretében talajvédelmi szakirányítói tevékenységet, valamint mintavételt, tápanyag-gazdálkodási tervek készítését vállaljuk.

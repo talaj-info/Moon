@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kapcsolat
+description: "Cégünk elérhetőségei: E-mail: talaj-info@talaj-info.hu; Telefon: 20/434-7400; Cím: 7625 Pécs, Gergely u. 15/1."
 tags: [contact, kapcsolat]
 date: 2016-06-07
 ---
@@ -8,13 +9,13 @@ date: 2016-06-07
 <div class="poem">
     <p class="stanza">
         <span class="verse">
-            <b>Cím:</b> 7625 Pécs, Gergely u. 15/1.
+            <b>Cím:</b> {{ site.mail }}
         </span><br />
         <span class="verse">
-            <b>Telefon:</b> 20/434-7400
+            <b>Telefon:</b> <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
         </span><br />
         <span class="verse">
-            <b>E-mail:</b> talaj-info@talaj-info.hu
+            <b>E-mail:</b> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </span><br />
         <span class="verse">
             <b>Cégjegyzékszám:</b> 02-09-074802

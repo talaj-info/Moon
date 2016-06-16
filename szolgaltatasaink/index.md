@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Szolgáltatásaink
+description: "Főbb szolgáltatásaink: Talajvédelmi tervek (hígtrágya-, szennyvíziszap elhelyezés, öntözés, ültetvénytelepítés, végleges más célú hasznosítás) és tápanyag-gazdálkodási tervek készítése"
 tags: [services, szolgáltatások]
 date: 2016-06-07
 ---
