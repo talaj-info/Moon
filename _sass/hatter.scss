@@ -1,0 +1,33 @@
+
+html {
+  background: url(http://www.talaj-info.hu/assets/img/placeholder-big.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.logo {
+  margin-top:15px;
+  padding-top:10px;
+  background-image: url(http://www.talaj-info.hu/assets/img/logo_szines_feher_szoveg.svg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-left:auto;
+  margin-right:auto;
+  width:336px;
+  height:206px;
+  @media only screen and (max-width: 400px) {
+      width:80vw;
+      height:49vw;
+  }
+}
+
+.no-svg .logo {
+  background-image: url(http://www.talaj-info.hu/assets/img/logo_szines_feher_szoveg.png);
+  @media only screen and (max-width: 400px) {
+    background-image: url(http://www.talaj-info.hu/assets/img/logo_szines_feher_szoveg_kicsi.png);
+  }
+}

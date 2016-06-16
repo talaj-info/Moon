@@ -12,7 +12,7 @@ date: 2016-06-07
             <b>Cím:</b> {{ site.mail }}
         </span><br />
         <span class="verse">
-            <b>Telefon:</b> <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+            <b>Telefon:</b> <a href="tel:{{ site.phonetel }}">{{ site.phone }}</a>
         </span><br />
         <span class="verse">
             <b>E-mail:</b> <a href="mailto:{{ site.email }}">{{ site.email }}</a>

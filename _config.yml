@@ -12,7 +12,8 @@ locale:             hu_HU
 url:                http://www.talaj-info.hu
 #url:                http://127.0.0.1:4000/
 email:              talaj-info@talaj-info.hu
-phone:              20/434-7400
+phonetel:           +36204347400
+phone:              (20) 434-7400
 mail:               "7625 Pécs, Gergely u. 15/1."
 
 # Jekyll
