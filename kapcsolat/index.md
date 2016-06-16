@@ -26,6 +26,6 @@ date: 2016-06-07
     </p>
 </div>
 
-<div class="google-maps-2">
+<div class="google-maps">
 <iframe src="http://maps.google.com/maps?q=46.084845,18.231399&z=15&output=embed" width="400px" height="342px" frameborder="0" style="border:0"></iframe>
 </div>
