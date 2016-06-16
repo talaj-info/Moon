@@ -16,13 +16,17 @@ body {
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-	background-color: $bodycolor;
-	background-position: center center;
-	background-attachment: fixed;
-	@media #{$small} {
-	    background-image: none !important;
-		background: $white;
-	}
+	/* background-color: $bodycolor;
+	 * background-position: center center;
+	 * background-attachment: fixed;
+	 * @media #{$small} {
+	 *     background-image: none !important;
+	 * 	background: $white;
+	 * }
+	 */
+}
+body:not(.loaded) #slider img {
+  display:none;
 }
 * {
 	box-sizing: border-box;
