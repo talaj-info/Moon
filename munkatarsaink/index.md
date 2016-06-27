@@ -4,6 +4,7 @@ title: Munkatársaink
 description: "Cégünkben dolgozó talajvédelmi szakértők névjegyzékszáma: Tihanyi Klára: 061/2010; Szalmásy Gábor: 003/2013"
 tags: [experts, munkatársak]
 date: 2016-06-07
+comments: false
 ---
 
 ## Szakértőként tevékenykedő munkatársaink:

@@ -15,6 +15,7 @@
       ga('require', 'linkid', 'linkid.js');
       ga('send', 'pageview');
     </script>
+    {% include track_outbound_links.html %}
     {% endif %}
     {% if page.comments != false %}
         {% include disqus_comments.html %}
