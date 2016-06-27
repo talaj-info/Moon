@@ -3,7 +3,9 @@ layout: page
 title: Bemutatkozás
 description: "Cégünk főként talajvédelmi tervek készítésével, illetve tápanyag-gazdálkodási szaktanácsadással foglalkozik elsősorban Baranya, Somogy, és Tolna megyében"
 comments: false
-redirect_from: "/about"
+redirect_from:
+  - /about
+  - /about/
 ---
 
 A *Talaj-Info Kft.* 2009 éves alakulása óta foglalkozik talajvédelmi tervek készítésével, illetve tápanyag-gazdálkodási szaktanácsadással.
