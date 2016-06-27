@@ -32,7 +32,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+# disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -72,6 +72,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
 
 jekyll-mentions:
     base_url: https://github.com
